@@ -1,0 +1,52 @@
+html{
+    background: #e3e3e3
+}
+body {
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    margin: 30px;
+    padding: 40px;
+    color: #242424;
+    border-top: 15px solid #312c2c;
+    background: white;
+}
+
+h1 {
+    font-size: 2em;
+    margin: 0;
+
+}
+h2 {
+    padding-top: 15px;
+    border-bottom: 2px solid black;
+}
+
+p {
+    line-height: 1.5em;
+    margin: 30px;
+}
+
+.blog-post {
+    border-bottom: 1px solid #cccccc;
+}
+
+#aboutme {
+    border-top: 3px dotted #cccccc;
+}
+td {
+    border: 1px solid black;
+    margin: 5px;
+    padding: 5px
+
+}
+a:hover {
+    color: coral;
+}
+
+a:active {
+    background: #265301;
+    color: #CDFEAA;
+}
+
+nav{
+    column-count: 3;
+}
