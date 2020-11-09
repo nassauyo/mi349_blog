@@ -82,3 +82,10 @@ img{
   .floatimg {
       float: right;
   }
+
+  @media (max-width: 400px) {
+      .topnav {
+          background-color: red;
+      }
+
+  }
